@@ -2,6 +2,8 @@ name: Solar Theme
 url: /solar-theme-jekyll/
 description: A stylish blog using the Solarized color palette
 
+layouts_dir: _layouts
+
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
